@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace Salon_samochodowy
 {
-    public class Authentication
+    public class Authentication:Osoba
     {
+        public Authentication(int id, string name, string email) : base(id, name, email)
+        {
+        }
+
         public static Klient AktualnieZalogowanyUzytkownik { get; private set; }
 
         public static Klient AuthenticateCustomer(string email, string password, List<Klient> Klienci)
