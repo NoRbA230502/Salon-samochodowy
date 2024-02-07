@@ -7,10 +7,13 @@ using System.Reflection;
 namespace Salon_samochodowy
 {
 
-    public class Transakcje
+    public class Transakcje:Samochod
     {
-        
-            static public void Zakup()
+        public Transakcje(int id, string marka, string model, string kolor, string rok_produkcji, string przebieg, string cena, string pojemnosc_silnika, string rodzaj_paliwa, string skrzynia_biegow, string vin) : base(id, marka, model, kolor, rok_produkcji, przebieg, cena, pojemnosc_silnika, rodzaj_paliwa, skrzynia_biegow, vin)
+        {
+        }
+
+        static public void Zakup()
         {
             Console.WriteLine("Podaj ID samochodu, który chcesz kupić:");
 
