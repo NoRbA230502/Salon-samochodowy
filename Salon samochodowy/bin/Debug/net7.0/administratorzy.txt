@@ -1,3 +1,0 @@
-1,Norbert Skaluba,Norbert@gmail.com,Norbert,Norbert1234,Rzeszów ul. Powstancow Warszawy 17/2,123947285,Sprzedawca
-2,Adam Janowski,Adamjan@gmail.com,Adam,Adam1234,Rzeszów ul. Armii Krajowej 24,954268,Kierownik dostaw
-

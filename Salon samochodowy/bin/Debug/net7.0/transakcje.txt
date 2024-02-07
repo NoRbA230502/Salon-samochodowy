@@ -1,6 +1,0 @@
-1,3,Adrian Zielonogórski,26.01.2024 13:38:56,28,Audi,A4,Niebieski,2019,72000,94000,1600,Diesel,Manualna,14QWT6B7FDK123469
-2,3,Adrian Zielonogórski,26.01.2024 13:39:26,22,Mazda,3,Niebieski,2017,95000,103000,1200,Benzyna,Automatyczna,8P5DTCPK2GG123463
-3,3,Adrian Zielonogórski,26.01.2024 16:38:56,27,BMW,3 Series,Czarny,2017,89000,105000,2000,Benzyna,Automatyczna,13JF6H9L4IR123468
-4,3,Adrian Zielonogórski,26.01.2024 17:55:42,24,Kia,Rio,Zielony,2018,88000,96000,1300,Benzyna,Automatyczna,10QAZXSWEDC123465
-5,3,Adrian Zielonogórski,29.01.2024 18:08:36,26,Mercedes-Benz,A-Class,Srebrny,2016,75000,98000,1800,Diesel,Automatyczna,12XY7K8L3ZP123467
-6,3,Adrian Zielonogórski,29.01.2024 18:34:55,25,Fiat,500,Biały,2015,80000,92000,900,Benzyna,Manualna,11B8TDCVFEA123466
